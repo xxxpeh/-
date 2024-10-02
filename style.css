@@ -2,3 +2,7 @@ body {
     background-color:#363135;
   color: #e8dfe7
 }
+button{ width: 90px;}
+p {font-size: 14px;}
+table{border-collapse: collapse;}
+td,th {border: 1px solid #f5edf4;}
